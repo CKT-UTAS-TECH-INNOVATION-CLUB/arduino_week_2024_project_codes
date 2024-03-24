@@ -1,0 +1,1 @@
+python3  /home/scorpion_robot_car/Desktop/self_driving_robot_car/self_driving_robot_car_python_codes/robot_car_main_ver2.py
